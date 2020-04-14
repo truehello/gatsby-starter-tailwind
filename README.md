@@ -4,11 +4,18 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.tailwindcss.com">
+   <img alt="Tailwind CSS" src="https://tailwindcss.com/img/tailwind-twitter-square.png" width="60" />
+  
+    
+  </a>
+</p>
 <h1 align="center">
-  Gatsby's default Tailwind starter
+  Gatsby Default Tailwind Starter
 </h1>
 
-Kick off your project with this default boilerplate implementing Tailwind CSS. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. It is also configured with Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+Kick off your project with this default boilerplate implementing Tailwind CSS. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. It is also configured with Tailwind CSS, a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
 
 ## 🚀 Quick start
@@ -57,7 +64,11 @@ A quick look at the top-level files and directories you'll see in this Gatsby pr
     ├── LICENSE
     ├── package-lock.json
     ├── package.json
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── yarn.lock
     └── README.md
+    
 
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
