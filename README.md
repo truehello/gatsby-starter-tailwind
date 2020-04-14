@@ -5,12 +5,11 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby's default Tailwind starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your project with this default boilerplate implementing Tailwind CSS. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. It is also configured with Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
@@ -20,7 +19,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-default-tailwind-starter https://github.com/trueheloo/gatsby-default-tailwind-starter
     ```
 
 1.  **Start developing.**
@@ -28,7 +27,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-default-starter/
+    cd my-default-tailwind-starter/
     gatsby develop
     ```
 
@@ -42,11 +41,13 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+A quick look at the top-level files and directories you'll see in this Gatsby project.
 
     .
     ├── node_modules
     ├── src
+          ├── css
+            ├── tailwind.css
     ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
@@ -90,10 +91,18 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
+## 🎓 Learning Tailwind CSS
+
+Looking for more guidance? Full documentation for Tailwind lives [on the website](https://www.tailwindcss.com/). Here are some places to start:
+
+
+
+- **To dive straight into code samples, head [to our documentation](https://www.tailwindcss.com/docs/utility-first).** 
+
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/truehello/gatsby-starter-tailwind-default)
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/truehello/gatsby-starter-tailwind-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
