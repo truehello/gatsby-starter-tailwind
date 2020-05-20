@@ -26,7 +26,7 @@ Kick off your project with this default boilerplate implementing Tailwind CSS. T
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-tailwind-starter https://github.com/truehello/gatsby-default-tailwind-starter
+    gatsby new my-default-tailwind-starter https://github.com/truehello/gatsby-starter-tailwind
     ```
 
 1.  **Start developing.**
